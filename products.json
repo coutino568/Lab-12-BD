@@ -1,0 +1,51 @@
+[{
+  "_id": 1,
+  "Name": "keyboard",
+  "Price": 300,
+  "Type": "Electronic"
+},{
+  "_id": 2,
+  "Name": "Monitor",
+  "Price": 500,
+  "Type": "Electronic"
+},{
+  "_id": 3,
+  "Name": "HDMI cable",
+  "Price": 450,
+  "Type": "Electronic"
+},{
+  "_id": 4,
+  "Name": "Headphones",
+  "Price": 550,
+  "Type": "Electronic"
+},{
+  "_id": 5,
+  "Name": "MousePad",
+  "Price": 950,
+  "Type": "Electronic"
+},{
+  "_id": 6,
+  "Name": "Monitor",
+  "Price": 520,
+  "Type": "Electronic"
+},{
+  "_id": 7,
+  "Name": "Super HDMI cable",
+  "Price": 470,
+  "Type": "Electronic"
+},{
+  "_id": 8,
+  "Name": "Headphones pro",
+  "Price": 570,
+  "Type": "Electronic"
+},{
+  "_id": 9,
+  "Name": "MousePad pro",
+  "Price": 990,
+  "Type": "Electronic"
+},{
+  "_id": 10,
+  "Name": "Desk",
+  "Price": 800,
+  "Type": "Furniture"
+}]
